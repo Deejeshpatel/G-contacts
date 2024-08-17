@@ -1,0 +1,13 @@
+{
+  "contacts": [
+    {
+      "id": "1032",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/contact-335dc.appspot.com/o/avatars%2F20231116_102129.jpg?alt=media&token=8f5f1ced-1732-4d40-af06-1e79e542a471",
+      "name": "deejesh patel",
+      "email": "parun9097@Gmail.com",
+      "phone": "06351328796",
+      "address": "plot no 46 sr.no 48 sanjay nagar",
+      "notes": "fullstack Devloper"
+    }
+  ]
+}
